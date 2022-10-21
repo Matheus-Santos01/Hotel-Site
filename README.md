@@ -2,7 +2,7 @@
 
 Mobile             |  Desktop
 :-------------------------:|:-------------------------:
-![preview](./.github/preview-mobile.png)  |  ![preview](./github/preview-desktop)
+![preview](./.github/preview-mobile.png)  |  ![preview](./github/preview-desktop.png)
 
 > Projeto de Estudo
 
