@@ -8,7 +8,7 @@ Mobile             |  Desktop
 
 Projeto construído com objetivo de fortalecer os conhecimentos de HTML, CSS e uso da responsividade com media query.
 
-[Clique aqui para acessar](https://matheus-santos01.github.io/Hotel-Site/)
+[Clique aqui para acessar](https://hotel-site-omega.vercel.app/)
 
 ## 🛠️ Tecnologias
 - HTML 
